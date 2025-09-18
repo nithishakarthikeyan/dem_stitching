@@ -10,3 +10,5 @@ grass /path/to/grassdata/folder --exec /path/to/dem_stitching2.py \
   input_a= DEM_file_A\
   input_b= DEM_file_B\
   output= output_file_name
+
+Inspired by r.patch.smooth.py
